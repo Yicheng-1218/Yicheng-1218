@@ -1,5 +1,15 @@
 # 💫 About Me:
-I am a Full Stack Engineer with a strong interest in AI technologies. I enjoy challenges and am always curious about new things. Through self-learning and developing side projects, I continuously improve my skills and enjoy sharing my knowledge with others.
+I’m an AI Solution Architect focused on designing and building applied systems that integrate Large Language Models to solve real-world problems.
+
+My work bridges the gap between business goals, user experience, and technical feasibility — delivering practical solutions, not just prototypes.
+
+What I do:
+- Architect AI-powered chatbot workflows (LLM + RAG + API)
+- Design intelligent automations to optimize internal operations
+- Rapidly deliver proof-of-concepts that align with product goals
+- Plan system-level AI integrations with user-centric design in mind
+
+I’m most interested in how AI technologies can be translated into real business impact and user value.
 
 # 💻 Tech Stack:
 ### Programming Languages：
