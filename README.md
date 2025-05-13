@@ -1,5 +1,5 @@
 ## 🛠️ About Me:
-I’m an AI Solution Architect focused on designing and building applied systems that integrate Large Language Models to solve real-world problems.
+I’m an AI developer focused on designing and building applied systems that integrate Large Language Models to solve real-world problems.
 
 My work bridges the gap between business goals, user experience, and technical feasibility — delivering practical solutions, not just prototypes.
 
